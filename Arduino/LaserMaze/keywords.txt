@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For LaserMaze
+####################################### 
+
+LaserMaze	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+Start			KEYWORD2
+GetThreshold	KEYWORD2
+GetRange		KEYWORD2
+Alarm			KEYWORD2
+
+#######################################
+# Constants
+#######################################
+ 
+isaligned		LITERAL1
+iscalibrated	LITERAL1
+isactive		LITERAL1
+isplaying		LITERAL1
+isstealing		LITERAL1
+iswinner		LITERAL1
+
+#######################################
