@@ -8,7 +8,6 @@ This is a repo for a AFK heist style game where the objective is to steal anobje
 - Entrance/exit portal to start and stop the timer
 - Auto calibration
 - Detection of when item has been stolen (can be replaced with any item people desire)
-- 
 
 ###Not yet implemented:
 - scoreboard
