@@ -1,0 +1,290 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fr 13 Feb 2015 12:35:54 CET
+
+BeginCmp
+TimeStamp = /54D902BB;
+Reference = P1;
+ValeurCmp = DETECTOR5;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D902AC;
+Reference = P2;
+ValeurCmp = DETECTOR4;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9029D;
+Reference = P3;
+ValeurCmp = DETECTOR3;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9028E;
+Reference = P4;
+ValeurCmp = DETECTOR2;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9027F;
+Reference = P5;
+ValeurCmp = DETECTOR1;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90224;
+Reference = P6;
+ValeurCmp = DETECTOR GATE;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCEE5F;
+Reference = P7;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9006F;
+Reference = P8;
+ValeurCmp = PRIZE;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90215;
+Reference = P9;
+ValeurCmp = LASER GATE;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90107;
+Reference = P10;
+ValeurCmp = LASER5;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9013E;
+Reference = P11;
+ValeurCmp = LASER4;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90170;
+Reference = P12;
+ValeurCmp = LASER3;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D901AC;
+Reference = P13;
+ValeurCmp = LASER2;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D901BB;
+Reference = P14;
+ValeurCmp = LASER1;
+IdModule  = audiojack;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90396;
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9033E;
+Reference = Q2;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90354;
+Reference = Q3;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90369;
+Reference = Q4;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90378;
+Reference = Q5;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D90387;
+Reference = Q6;
+ValeurCmp = BC547;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907B4;
+Reference = R1;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907C3;
+Reference = R2;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907D2;
+Reference = R3;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907E1;
+Reference = R4;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907F0;
+Reference = R5;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCEF3E;
+Reference = R6;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D907FF;
+Reference = R7;
+ValeurCmp = 40k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9080E;
+Reference = R8;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFE6D;
+Reference = R9;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9086D;
+Reference = R10;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D908B8;
+Reference = R11;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D908A9;
+Reference = R12;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9089A;
+Reference = R13;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9088B;
+Reference = R14;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D9087C;
+Reference = R15;
+ValeurCmp = 1000;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFDF0;
+Reference = R16;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFDFF;
+Reference = R17;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFE0E;
+Reference = R18;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFE1D;
+Reference = R19;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DCFE2C;
+Reference = R20;
+ValeurCmp = 22;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D909B1;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD_2;
+EndCmp
+
+EndListe
