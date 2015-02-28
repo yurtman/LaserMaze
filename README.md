@@ -3,7 +3,7 @@
 This is a repo for a AFK heist style game where the objective is to steal an object and get to the exit without tripping the laser beams.
 
 Currently it is in the testing stage.
-![testbox](/images/testbox.jpg)
+![testbox](/images/testbox.JPG)
 
 ##Features
 - Open (licence yet to be determined)
@@ -18,6 +18,6 @@ Currently it is in the testing stage.
 
 ##Examples of use
 - Orbit Festival
-![Orbit](/images/Orbit.png)
+![Orbit](/images/Orbit.jpg)
 - Open day De Jonge Onderzoekers
 ![DJOG](/images/DJOG.jpg)
