@@ -17,7 +17,7 @@ Currently it is in the testing stage.
 - GUI to display high scores and alignment status
 
 ##Examples of use
-- Orbit Festival
+####Orbit Festival (Dec 21st 2014)
 ![Orbit](/images/Orbit.jpg)
-- Open day De Jonge Onderzoekers
+####Open day De Jonge Onderzoekers (14t Feb 2015)
 ![DJOG](/images/DJOG.jpg)
