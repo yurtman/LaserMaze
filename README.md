@@ -19,5 +19,7 @@ Currently it is in the testing stage.
 ##Examples of use
 ####Orbit Festival (Dec 21st 2014)
 ![Orbit](/images/Orbit.jpg)
-####Open day De Jonge Onderzoekers (14t Feb 2015)
+####Open day De Jonge Onderzoekers (14th Feb 2015)
 ![DJOG](/images/DJOG.jpg)
+####Maak Festival Groningen (12th Apr 2015)
+####Night of Art and Science (5th Jun 2015)
