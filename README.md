@@ -25,7 +25,7 @@ It is currently still very much a prototype and the documentation of the project
 
 ##Examples of use
 The LaserMaze started as a hobby project with humble beginnings- a rats nest of alligator clips. 
-![ratsnest](/images/ratsnest.JPG)
+![ratsnest](/images/ratsnest.jpg)
 Since then development has not improved much but the experience resonates well with audiences of all ages and the prototype has already been used for quite a few events:
 ####Orbit Festival (21st Dec 2014)
 ![Orbit](/images/Orbit.jpg)
