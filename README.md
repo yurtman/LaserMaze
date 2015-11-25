@@ -32,7 +32,7 @@ Since then development has not improved much but the experience resonates well w
 ####Open day De Jonge Onderzoekers (14th Feb 2015)
 ![DJOG](/images/DJOG.jpg)
 ####Maak Festival Groningen (12th Apr 2015)
-![MAAK](/images/MAAK.jpg)
+![MAAK](/images/MAAK.JPG)
 ####Night of Art and Science (5th Jun 2015)
 ![Nacht](/images/Nacht.jpg)
 ####Noorderzon Festival (26th-30th Aug 2015)
