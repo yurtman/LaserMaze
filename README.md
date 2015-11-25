@@ -1,7 +1,8 @@
 ![Header](/images/logo_small.png)
+
 LaserMaze is an exciting game that imitates the comically bad kind of laser security system found in heist movies. Using Arduino, augmented laser pointers, and a smoke machine, LaserMaze can transform any shipping container or hallway into a practice course for aspiring special agents.
 
-It is currently still very much a prototype and the documentation of the project reflects this. For the most up to date documentation please see the wiki.
+It is currently still very much a prototype and the documentation of the project reflects this. For the most up to date documentation please see the [wiki](https://github.com/yurtman/LaserMaze/wiki).
 
 ##Features
 - Made with easy to source components (laserpointers, basic electronics)
