@@ -39,4 +39,4 @@ Since then development has not improved much but the experience resonates well w
 ####Noorderzon Festival (26th-30th Aug 2015)
 ![Noorderzon](/images/noorderzon.jpg)
 ####Kinderboekenweek (10th Oct 2015)
-![Kinderboekenweek](/images/Bieb.jpg)
+![Kinderboekenweek](/images/boek.jpg)
