@@ -1,45 +1,45 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fr 13 Feb 2015 12:34:57 CET
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Do 12 Feb 2015 21:21:18 CET
 
 BeginCmp
 TimeStamp = /54D902BB;
 Reference = P1;
 ValeurCmp = DETECTOR5;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D902AC;
 Reference = P2;
 ValeurCmp = DETECTOR4;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D9029D;
 Reference = P3;
 ValeurCmp = DETECTOR3;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D9028E;
 Reference = P4;
 ValeurCmp = DETECTOR2;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D9027F;
 Reference = P5;
 ValeurCmp = DETECTOR1;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D90224;
 Reference = P6;
 ValeurCmp = DETECTOR GATE;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
@@ -53,49 +53,49 @@ BeginCmp
 TimeStamp = /54D9006F;
 Reference = P8;
 ValeurCmp = PRIZE;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D90215;
 Reference = P9;
 ValeurCmp = LASER GATE;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D90107;
 Reference = P10;
 ValeurCmp = LASER5;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D9013E;
 Reference = P11;
 ValeurCmp = LASER4;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D90170;
 Reference = P12;
 ValeurCmp = LASER3;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D901AC;
 Reference = P13;
 ValeurCmp = LASER2;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D901BB;
 Reference = P14;
 ValeurCmp = LASER1;
-IdModule  = audiojack;
+IdModule  = ;
 EndCmp
 
 BeginCmp
@@ -284,7 +284,7 @@ BeginCmp
 TimeStamp = /54D909B1;
 Reference = SHIELD1;
 ValeurCmp = ARDUINO_SHIELD;
-IdModule  = ARDUINO_SHIELD_2;
+IdModule  = ;
 EndCmp
 
 EndListe
